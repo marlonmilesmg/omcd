@@ -387,12 +387,12 @@ ul, ol {
 	position: relative;
 }
 .single-hero-item {
-	padding-top: 125px;
+	padding-top: 360px;
 	height: 750px;
 }
 .single-hero-item .hero-text {
 	background: rgba(28, 28, 28, 0.6);
-	padding: 48px 0 44px;
+	padding: 20px 0 20px;
 	text-align: center;
 }
 .single-hero-item .hero-text .room-location {
@@ -409,7 +409,7 @@ ul, ol {
 	margin-bottom: 20px;
 }
 .single-hero-item .hero-text .room-price {
-	margin-bottom: 45px;
+	margin-bottom: 20px;
 }
 .single-hero-item .hero-text .room-price span {
 	font-size: 14px;
@@ -464,7 +464,7 @@ ul, ol {
 -----------------------*/
 
 .search-form {
-	margin-top: -50px;
+	margin-top: -180px;
 	z-index: 99;
 	position: relative;
 }
