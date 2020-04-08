@@ -836,7 +836,6 @@ ul, ol {
 	line-height: 73px;
 }
 .video-text h4 {
-	color: #ffffff;
 	font-weight: 500;
 	letter-spacing: 4px;
 	text-transform: uppercase;
@@ -845,7 +844,6 @@ ul, ol {
 }
 .video-text h2 {
 	font-size: 44px;
-	color: #ffffff;
 	font-weight: 600;
 }
 /*---------------------
