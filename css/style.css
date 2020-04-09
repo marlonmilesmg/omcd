@@ -77,8 +77,8 @@ img {
 	max-width: 30%;
 }
 .home-background{
-	/* background-image: url("../img/home/backgroundomc.png"); */
-	background-color: #7e8a907d;
+	/* background-image: url("../img/home/backgroundomc.jpg"); */
+	background-color: #212529;
 }
 input:focus, select:focus, button:focus, textarea:focus {
 	outline: none;
@@ -108,7 +108,7 @@ ul, ol {
 }
 .section-title h2 {
 	font-size: 44px;
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 	position: relative;
 	margin-top: 15px;
@@ -370,7 +370,7 @@ ul, ol {
 	display: inline-block;
 }
 .nav-logo .nav-logo-right ul li .info-text p {
-	color: #19191a;
+	color: #707079;
 	margin-bottom: 0;
 	line-height: 18px;
 	margin-top: 4px;
@@ -387,12 +387,12 @@ ul, ol {
 	position: relative;
 }
 .single-hero-item {
-	padding-top: 125px;
+	padding-top: 360px;
 	height: 750px;
 }
 .single-hero-item .hero-text {
 	background: rgba(28, 28, 28, 0.6);
-	padding: 48px 0 44px;
+	padding: 20px 0 20px;
 	text-align: center;
 }
 .single-hero-item .hero-text .room-location {
@@ -409,7 +409,7 @@ ul, ol {
 	margin-bottom: 20px;
 }
 .single-hero-item .hero-text .room-price {
-	margin-bottom: 45px;
+	margin-bottom: 20px;
 }
 .single-hero-item .hero-text .room-price span {
 	font-size: 14px;
@@ -464,7 +464,7 @@ ul, ol {
 -----------------------*/
 
 .search-form {
-	margin-top: -50px;
+	margin-top: -180px;
 	z-index: 99;
 	position: relative;
 }
@@ -654,7 +654,7 @@ ul, ol {
 }
 .single-howit-works h4 {
 	font-size: 22px;
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 	margin-bottom: 16px;
 	margin-top: 32px;
@@ -664,7 +664,6 @@ ul, ol {
 -----------------------*/
 
 .feature-section {
-	background: #7e8a907d;
 	padding-bottom: 70px;
 	padding-top: 95px;
 }
@@ -761,7 +760,7 @@ ul, ol {
 }
 .feature-carousel .feature-item .fi-text .inside-text h4 {
 	font-size: 22px;
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 	margin-bottom: 8px;
 }
@@ -783,7 +782,7 @@ ul, ol {
 	margin-right: 4px;
 }
 .feature-carousel .feature-item .fi-text .inside-text h5.price {
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 }
 .feature-carousel .feature-item .fi-text .inside-text h5.price span {
@@ -837,7 +836,6 @@ ul, ol {
 	line-height: 73px;
 }
 .video-text h4 {
-	color: #ffffff;
 	font-weight: 500;
 	letter-spacing: 4px;
 	text-transform: uppercase;
@@ -846,7 +844,6 @@ ul, ol {
 }
 .video-text h2 {
 	font-size: 44px;
-	color: #ffffff;
 	font-weight: 600;
 }
 /*---------------------
@@ -919,7 +916,7 @@ ul, ol {
 }
 .top-properties-carousel .single-top-properties .stp-text h2 {
 	font-size: 44px;
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 	margin-top: 20px;
 	margin-bottom: 16px;
@@ -940,7 +937,7 @@ ul, ol {
 }
 .top-properties-carousel .single-top-properties .stp-text .properties-location {
 	font-size: 14px;
-	color: #19191a;
+	color: #707079;
 	margin-bottom: 20px;
 }
 .top-properties-carousel .single-top-properties .stp-text .properties-location i {
@@ -964,7 +961,7 @@ ul, ol {
 }
 .top-properties-carousel .single-top-properties .stp-text .room-features li p {
 	font-size: 14px;
-	color: #19191a;
+	color: #707079;
 	margin-bottom: 0;
 	margin-top: 5px;
 }
@@ -1116,7 +1113,7 @@ ul, ol {
 }
 .agent-carousel .single-agent h5 {
 	font-size: 20px;
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 	margin-top: 25px;
 }
@@ -1378,7 +1375,7 @@ ul, ol {
 .property-sidebar h4 {
 	font-size: 22px;
 	font-weight: 600;
-	color: #19191a;
+	color: #707079;
 	margin-bottom: 34px;
 }
 .property-sidebar .sidebar-btn {
@@ -1459,7 +1456,7 @@ ul, ol {
 	display: inline-block;
 	width: 165px;
 	font-size: 16px;
-	color: #19191a;
+	color: #707079;
 	border: none;
 	outline: none;
 	background: transparent;
@@ -1485,7 +1482,7 @@ ul, ol {
 	display: inline-block;
 	width: 165px;
 	font-size: 16px;
-	color: #19191a;
+	color: #707079;
 	border: none;
 	background: transparent;
 }
@@ -1508,7 +1505,7 @@ ul, ol {
 .property-sidebar .best-agents h4 {
 	font-size: 22px;
 	font-weight: 600;
-	color: #19191a;
+	color: #707079;
 	margin-bottom: 34px;
 }
 .property-sidebar .best-agents .ba-item {
@@ -1524,7 +1521,7 @@ ul, ol {
 	overflow: hidden;
 }
 .property-sidebar .best-agents .ba-item .ba-text h5 {
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 	margin-bottom: 3px;
 }
@@ -1542,7 +1539,7 @@ ul, ol {
 .property-section h4.property-title {
 	font-size: 22px;
 	font-weight: 600;
-	color: #19191a;
+	color: #707079;
 	margin-bottom: 34px;
 }
 .property-list .single-property-item {
@@ -1570,7 +1567,7 @@ ul, ol {
 }
 .property-list .single-property-item .property-text h5.r-title {
 	font-size: 20px;
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 	margin-top: 15px;
 	margin-bottom: 16px;
@@ -1591,7 +1588,7 @@ ul, ol {
 }
 .property-list .single-property-item .property-text .properties-location {
 	font-size: 14px;
-	color: #19191a;
+	color: #707079;
 	margin-bottom: 15px;
 }
 .property-list .single-property-item .property-text .properties-location i {
@@ -1615,7 +1612,7 @@ ul, ol {
 }
 .property-list .single-property-item .property-text .room-features li p {
 	font-size: 14px;
-	color: #19191a;
+	color: #707079;
 	margin-bottom: 0;
 	margin-top: 4px;
 }
@@ -1760,7 +1757,7 @@ ul, ol {
 }
 .pd-details-text .pd-desc h4 {
 	font-size: 22px;
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 	margin-bottom: 24px;
 }
@@ -1805,7 +1802,7 @@ ul, ol {
 	width: 36%;
 }
 .pd-details-text .pd-details-tab .tab-content .property-more-table table tbody tr td.p-value {
-	color: #19191a;
+	color: #707079;
 }
 .pd-details-text .pd-details-tab .tab-content .property-more-table .left-table {
 	width: 48%;
@@ -1830,7 +1827,7 @@ ul, ol {
 }
 .pd-details-text .property-map h4 {
 	font-size: 22px;
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 	margin-bottom: 30px;
 }
@@ -1872,7 +1869,7 @@ ul, ol {
 }
 .pd-details-text .property-contactus h4 {
 	font-size: 22px;
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 	margin-bottom: 30px;
 }
@@ -1942,14 +1939,14 @@ ul, ol {
 }
 .breadcrumb-text h2 {
 	font-size: 44px;
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 	margin-bottom: 16px;
 }
 .breadcrumb-text .breadcrumb-option a {
 	display: inline-block;
 	font-size: 18px;
-	color: #19191a;
+	color: #707079;
 	margin-right: 20px;
 	position: relative;
 }
@@ -2030,7 +2027,7 @@ ul, ol {
 .single-blog-item .sb-text h4 a {
 	font-size: 22px;
 	font-weight: 600;
-	color: #19191a;
+	color: #707079;
 	display: inline-block;
 	line-height: 32px;
 }
@@ -2114,7 +2111,7 @@ ul, ol {
 .blog-details-title h4 {
 	font-size: 22px;
 	font-weight: 600;
-	color: #19191a;
+	color: #707079;
 	line-height: 32px;
 	margin-bottom: 20px;
 }
@@ -2148,7 +2145,7 @@ ul, ol {
 	padding-top: 170px;
 }
 .blog-details-social h6 {
-	color: #19191a;
+	color: #707079;
 	margin-bottom: 26px;
 }
 .blog-details-social .social-list a {
@@ -2195,7 +2192,7 @@ ul, ol {
 .blog-more-details h4 {
 	font-size: 22px;
 	font-weight: 600;
-	color: #19191a;
+	color: #707079;
 	line-height: 32px;
 	margin-bottom: 20px;
 }
@@ -2230,7 +2227,7 @@ ul, ol {
 .tag-share-option .social-share span {
 	display: inline-block;
 	font-size: 16px;
-	color: #19191a;
+	color: #707079;
 }
 .tag-share-option .social-share a {
 	display: inline-block;
@@ -2250,7 +2247,7 @@ ul, ol {
 .comment-option h4 {
 	font-size: 22px;
 	font-weight: 600;
-	color: #19191a;
+	color: #707079;
 	line-height: 32px;
 	margin-bottom: 40px;
 }
@@ -2305,7 +2302,7 @@ ul, ol {
 	font-weight: 600;
 }
 .comment-option .single-comment-item .sc-text h5 {
-	color: #19191a;
+	color: #707079;
 	font-weight: 600;
 	margin-top: 5px;
 	margin-bottom: 7px;
@@ -2335,7 +2332,7 @@ ul, ol {
 .leave-comment h4 {
 	font-size: 22px;
 	font-weight: 600;
-	color: #19191a;
+	color: #707079;
 	line-height: 32px;
 	margin-bottom: 40px;
 }
@@ -2353,7 +2350,7 @@ ul, ol {
 }
 .leave-comment form input:focus {
 	border-color: #007ABB;
-	color: #19191a;
+	color: #707079;
 }
 .leave-comment form textarea {
 	width: 100%;
@@ -2371,7 +2368,7 @@ ul, ol {
 }
 .leave-comment form textarea:focus {
 	border-color: #007ABB;
-	color: #19191a;
+	color: #707079;
 }
 /*---------------------
   About Section
@@ -2399,7 +2396,7 @@ ul, ol {
 .about-section .about-text h4 {
 	font-size: 22px;
 	font-weight: 600;
-	color: #19191a;
+	color: #707079;
 	line-height: 32px;
 	margin-bottom: 20px;
 }
@@ -2515,7 +2512,7 @@ ul, ol {
 .contact-map .map-inside .inside-widget h4 {
 	font-size: 22px;
 	font-weight: 600;
-	color: #19191a;
+	color: #707079;
 	margin-bottom: 4px;
 }
 .contact-map .map-inside .inside-widget ul li {
@@ -2549,7 +2546,7 @@ ul, ol {
 }
 .contact-text form.contact-form input:focus {
 	border-color: #007ABB;
-	color: #19191a;
+	color: #707079;
 }
 .contact-text form.contact-form textarea {
 	width: 100%;
@@ -2567,7 +2564,7 @@ ul, ol {
 }
 .contact-text form.contact-form textarea:focus {
 	border-color: #007ABB;
-	color: #19191a;
+	color: #707079;
 }
 /* ------------------------------ Responsive Media Styles ------------------------------ */
 
@@ -2673,8 +2670,8 @@ ul, ol {
 		font-size: 22px;
 		width: 30px;
 		height: 30px;
-		color: #19191a;
-		border: 1px solid #19191a;
+		color: #707079;
+		border: 1px solid #707079;
 		border-radius: 2px;
 		line-height: 33px;
 		text-align: center;
@@ -2709,7 +2706,7 @@ ul, ol {
 		font-size: 22px;
 		width: 30px;
 		height: 30px;
-		border: 1px solid #19191a;
+		border: 1px solid #707079;
 		border-radius: 50%;
 		text-align: center;
 		line-height: 30px;
@@ -2732,12 +2729,12 @@ ul, ol {
 	}
 	.offcanvas-menu-wrapper .language-bar .language-option span {
 		font-size: 14px;
-		color: #19191a;
+		color: #707079;
 		display: inline-block;
 		margin-right: 2px;
 	}
 	.offcanvas-menu-wrapper .language-bar .language-option i {
-		color: #19191a;
+		color: #707079;
 		font-size: 13px;
 	}
 	.offcanvas-menu-wrapper .language-bar .language-option:hover .flag-dropdown {
@@ -2794,7 +2791,7 @@ ul, ol {
 	}
 	.offcanvas-menu-wrapper .main-menu ul li a {
 		font-size: 14px;
-		color: #19191a;
+		color: #707079;
 		font-weight: 500;
 		text-transform: uppercase;
 		display: block;
@@ -2836,7 +2833,7 @@ ul, ol {
 		display: inline-block;
 	}
 	.offcanvas-menu-wrapper .nav-logo-right ul li .info-text p {
-		color: #19191a;
+		color: #707079;
 		margin-bottom: 0;
 		line-height: 18px;
 		margin-top: 4px;

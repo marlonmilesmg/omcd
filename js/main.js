@@ -151,13 +151,6 @@
             .find(".owl-item.active")
             .last()
             .index();
-
-        if (current > end) {
-            thumbnailSlider.data("owl.carousel").to(current, 100, true);
-        }
-        if (current < start) {
-            thumbnailSlider.data("owl.carousel").to(current - onscreen, 100, true);
-        }
     }
 
     function syncPosition2(el) {
